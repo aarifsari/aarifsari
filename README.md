@@ -1,24 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Miraç%20Doğan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Ahmet%20Arif%20Sarı&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62" />
 </div>
 
 <h1 align="center">Welcome to my GitHub Profile! 👋</h1>
 <h3 align="center">A passionate Software Developer creating modern and professional solutions.</h3>
 
 <p align="center">
-  <a href="https://github.com/miracdogann">
-    <img src="https://komarev.com/ghpvc/?username=miracdogann&label=Profile%20views&color=0e75b6&style=flat" alt="miracdogann" />
+  <a href="https://github.com/ahmetarifsari">
+    <img src="https://komarev.com/ghpvc/?username=ahmetarifsari&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetarifsari" />
   </a>
-  <a href="https://github.com/miracdogann?tab=followers">
-    <img src="https://img.shields.io/github/followers/miracdogann?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/ahmetarifsari?tab=followers">
+    <img src="https://img.shields.io/github/followers/ahmetarifsari?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miracdogann/">
+  <a href="https://www.linkedin.com/in/ahmetarifsari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:miracdogann@example.com">
+  <a href="mailto:email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -48,14 +48,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miracdogann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miracdogann&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetarifsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetarifsari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracdogann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetarifsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
