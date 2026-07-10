@@ -1,68 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Ahmet%20Arif%20Sarı&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Ahmet%20Arif%20Sarı&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Engineering&descAlignY=51&descAlign=62" />
 </div>
 
 <h1 align="center">Welcome to my GitHub Profile! 👋</h1>
-<h3 align="center">A passionate Software Developer creating modern and professional solutions.</h3>
 
 <p align="center">
-  <a href="https://github.com/aarifsari">
-    <img src="https://komarev.com/ghpvc/?username=aarifsari&label=Profile%20views&color=0e75b6&style=flat" alt="aarifsari" />
+  <a href="https://ahmetarifsari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/aarifsari?tab=followers">
-    <img src="https://img.shields.io/github/followers/aarifsari?label=Followers&style=social" alt="followers" />
+  <a href="https://www.linkedin.com/in/ahmet-arif-sari-391725354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmetarifsari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:aasari2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Modern Web & Mobile Applications**
-- 🌱 I’m currently learning **Advanced System Design and AI Integration**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Frontend, Backend, and Software Architecture**
-- 📫 How to reach me: **[LinkedIn](#) or Email**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,cs,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,github,docker,aws,linux,vscode,figma&perline=12" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarifsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarifsari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarifsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-Here is how my activity looks throughout the year:
 
 <div align="center">
   <picture>
@@ -70,10 +24,4 @@ Here is how my activity looks throughout the year:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarifsari/aarifsari/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aarifsari/aarifsari/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
