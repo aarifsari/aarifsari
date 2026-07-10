@@ -5,9 +5,17 @@
 <h1 align="center">Welcome to my GitHub Profile! 👋</h1>
 
 <p align="center">
-  🌐 <a href="https://ahmetarifsari.vercel.app" target="_blank"><b>Portfolio Website</b></a> &nbsp; | &nbsp;
-  💼 <a href="https://www.linkedin.com/in/ahmet-arif-sari-391725354/" target="_blank"><b>LinkedIn</b></a> &nbsp; | &nbsp;
-  ✉️ <a href="mailto:aasari2002@gmail.com" target="_blank"><b>Email</b></a>
+  🌐 <a href="https://ahmetarifsari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/ahmet-arif-sari-391725354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  ✉️ <a href="mailto:aasari2002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <br>
