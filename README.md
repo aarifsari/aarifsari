@@ -6,11 +6,11 @@
 <h3 align="center">A passionate Software Developer creating modern and professional solutions.</h3>
 
 <p align="center">
-  <a href="https://github.com/ahmetarifsari">
-    <img src="https://komarev.com/ghpvc/?username=ahmetarifsari&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetarifsari" />
+  <a href="https://github.com/aarifsari">
+    <img src="https://komarev.com/ghpvc/?username=aarifsari&label=Profile%20views&color=0e75b6&style=flat" alt="aarifsari" />
   </a>
-  <a href="https://github.com/ahmetarifsari?tab=followers">
-    <img src="https://img.shields.io/github/followers/ahmetarifsari?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/aarifsari?tab=followers">
+    <img src="https://img.shields.io/github/followers/aarifsari?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
@@ -48,14 +48,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetarifsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetarifsari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aarifsari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarifsari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetarifsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarifsari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
@@ -66,9 +66,9 @@ Here is how my activity looks throughout the year:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarifsari/aarifsari/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarifsari/aarifsari/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aarifsari/aarifsari/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
